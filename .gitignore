@@ -1,0 +1,18 @@
+# common
+.DS_Store
+.buildpath
+.project
+.settings
+.idea
+
+# magento standard
+/app/etc/local.xml
+/app/etc/use_cache.ser
+/media/*
+!/media/.htaccess
+/var/*
+!/var/.htaccess
+
+# custom
+/nbproject/
+
