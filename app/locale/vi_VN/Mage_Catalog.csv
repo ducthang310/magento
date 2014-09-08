@@ -253,7 +253,11 @@
 "Disallowed file type.","Disallowed file type."
 "Display Actual Price","Hiển Thị Giá Thực"
 "Display in Suggested Terms","Display in Suggested Terms"
+<<<<<<< HEAD
 "Double click on a group to rename it","Click đúp chuột vào 1 nhóm để đổi tên"
+=======
+"Double click on a group to rename it","Double click on a group to rename it"
+>>>>>>> 1feed9c1d401022f3ac056b5c0f36bad74dd121d
 "Double click on above image to view full picture","Click đúp chuột vào ảnh để xem với kích thước lớn"
 "Downloadable Information","Downloadable Information"
 "Duplicate","Sao chép"

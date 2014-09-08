@@ -9,7 +9,10 @@
 "<a href=""%1$s"" onclick=""this.target=\'blank\'"">%2$s %3$s</a> <a href=""mailto:%4$s"">(%4$s)</a>","<a href=""%1$s"" onclick=""this.target=\'blank\'"">%2$s %3$s</a> <a href=""mailto:%4$s"">(%4$s)</a>"
 "Add New Review","Thêm Đánh Giá"
 "Add Your Review","Đánh Giá Của Bạn"
+<<<<<<< HEAD
 "Add Review", "Thêm Đánh Giá"
+=======
+>>>>>>> 1feed9c1d401022f3ac056b5c0f36bad74dd121d
 "Administrator","Administrator"
 "All Reviews","Toàn Bộ Đánh Giá"
 "All Reviews of Customer `%s`","All Reviews of Customer `%s`"
@@ -91,4 +94,8 @@
 "You're reviewing:","Đánh giá cho sản phẩm:"
 "Your Rating:","Đánh Giá Của Bạn:"
 "Your Review (submitted on %s):","Đánh Giá Của Bạn (đã được gửi đi %s):"
+<<<<<<< HEAD
 "Your review has been accepted for moderation.","Đánh giá của bạn đã được chấp nhận."
+=======
+"Your review has been accepted for moderation.","Đánh giá của bạn đã được chấp nhận."
+>>>>>>> 1feed9c1d401022f3ac056b5c0f36bad74dd121d

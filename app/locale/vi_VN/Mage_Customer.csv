@@ -27,7 +27,11 @@
 "Addresses","Địa chỉ"
 "Admin","Admin"
 "All","All"
+<<<<<<< HEAD
 "All Store Views",Tất Cả Cửa Hàng"
+=======
+"All Store Views","All Store Views"
+>>>>>>> 1feed9c1d401022f3ac056b5c0f36bad74dd121d
 "All countries","Tất cả các nước"
 "Always optional.","Always optional."
 "Amount","Amount"
@@ -475,5 +479,9 @@
 "Ordered", "Đã mua"
 "Item Status", "Trạng thái sản phẩm"
  "Customer Addresses", "Địa chỉ của khách hàng"
+<<<<<<< HEAD
  " Newsletter Information", "Thông tin về bản tin"
 "User name", "Tên đăng nhập"
+=======
+ " Newsletter Information", "Thông tin về bản tin"
+>>>>>>> 1feed9c1d401022f3ac056b5c0f36bad74dd121d
