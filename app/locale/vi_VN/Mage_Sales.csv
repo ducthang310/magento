@@ -753,7 +753,7 @@
 "The transaction ""%s"" (%s) is already closed.","The transaction ""%s"" (%s) is already closed."
 "The transaction ""%s"" cannot be captured yet.","The transaction ""%s"" cannot be captured yet."
 "The value that you entered is not valid.","The value that you entered is not valid."
-"There are no billing agreements yet.","There are no billing agreements yet."
+"There are no billing agreements yet.","Không có thỏa thuận thanh toán."
 "There are no printable documents related to selected orders.","There are no printable documents related to selected orders."
 "There are no shipping labels related to selected %s.","There are no shipping labels related to selected %s."
 "There is no need to approve this payment.","There is no need to approve this payment."
