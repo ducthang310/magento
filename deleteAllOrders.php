@@ -1,6 +1,6 @@
 <?php
 /**
- * @author Dejan Radic <dejan.radic@inchoo.net>
+ * @author Dejan Radic <dejan.radic@inchoo.netaaaaa>
  */
 
 if (version_compare(phpversion(), '5.2.0', '<')===true) {
